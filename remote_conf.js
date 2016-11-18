@@ -11,6 +11,11 @@ module.exports = {
            utterance_name : 'schalte um auf ZDF',
            activity: 'Fernsehen',
            channel: "2"
+        },
+        {
+            utterance_name : 'schalte um auf MDR',
+            activity: 'Fernsehen',
+            channel: "3"
         }
     ]
 };
